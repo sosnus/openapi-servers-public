@@ -1,0 +1,13 @@
+openapi: '3.0.2'
+info:
+  title: iot-message-logger
+  version: '1.0'
+servers:
+  - url: https://randomuser.me/api
+paths:
+  /:
+    get:
+      description: Get one random person
+      responses:
+        '200':
+          description: OK
