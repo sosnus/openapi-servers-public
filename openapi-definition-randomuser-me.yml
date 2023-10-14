@@ -1,6 +1,6 @@
 openapi: '3.0.2'
 info:
-  title: iot-message-logger
+  title: randomuser.me
   version: '1.0'
 servers:
   - url: https://randomuser.me/api
